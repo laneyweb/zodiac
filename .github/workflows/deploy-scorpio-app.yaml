@@ -3,7 +3,7 @@ env:
   DEFAULT_LOCATION: uksouth
   SCORPIO_ALIAS: bpscorpio
 #on:
-#  push:
+#  push: 
 #    paths:
 #    - scorpio-api/Application/**
 
